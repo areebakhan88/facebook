@@ -1,0 +1,8 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "facebook page demo",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
